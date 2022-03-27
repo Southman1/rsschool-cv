@@ -29,7 +29,7 @@ body{
 }
 
 .fon_inner {
-    background: url(/images/fon.png)280px/280px;
+    background: url(/image/fon.png)280px/280px;
     background-repeat: no-repeat; 
     background-position: 335px 8px;
     position: relative;
