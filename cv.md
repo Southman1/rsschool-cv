@@ -28,3 +28,28 @@ I am currently studying web development in order to change the type of activity.
 5. Figma, Abode Photoshop(for web development)
 
 6. Editors: Sublime, VSCode.
+
+## Code Examples
+-------------
+
+```
+function multiply($a, $b) {
+return $a \* $b;
+}
+```
+
+Sorry, but my code is still under study.
+
+## Education
+------------
+* __Sevastopol National University:__
+
+   * Shipbuilding Engineer and Oceans Engineering.
+
+
+## Languages
+---------
+* German A1
+* English A0-A1(under study)
+* Russian
+* Ukrainian
