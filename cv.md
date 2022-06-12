@@ -4,11 +4,8 @@
 ------------------
 ## My Contacts
 ------
-* E-mail: karabel2011@gmail.com
 
 * Git: [https://github.com/Southman1/](https://github.com/Southman1)
-
-* Telegram:[@Zapwest](https://t.me/Zapwest)
 
 
 ## About Me
